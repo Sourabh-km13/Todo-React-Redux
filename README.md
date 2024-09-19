@@ -13,7 +13,7 @@ This is a simple Todo application built using React and Redux to demonstrate sta
 
 2. Navigate into the project directory:
    ```bash
-     cd todo-redux
+     cd reduxtodo
      npm install
      npm run dev
 

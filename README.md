@@ -1,6 +1,19 @@
 # Todo-React-Redux
-learning react by creating a simple Todo-app using redux as state management
-''' js
-npm install 
-npm run dev
-'''
+
+This is a simple Todo application built using React and Redux to demonstrate state management in a React app.
+
+## Features
+
+- Add new todos
+- Mark todos as completed
+- Delete todos
+- Clear completed todos
+
+## Getting Started
+
+2. Navigate into the project directory:
+   ```bash
+     cd todo-redux
+     npm install
+     npm run dev
+
